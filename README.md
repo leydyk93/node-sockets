@@ -1,8 +1,8 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Aplicacion cliente servidor con node express y socket.io
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Ejecutar 
 
 ```
 npm install
